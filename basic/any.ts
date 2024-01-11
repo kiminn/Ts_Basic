@@ -13,3 +13,5 @@ console.log(addNumber2(3, 5));
 console.log(addNumber2('뽀또', '예감')); // ??
 //any는 타입 검사를 포기한다는 선언과 같다.
 
+//noImplicitAny는 any를 허용하지 않는 tsconfig 옵션
+// 꿀팁!!

@@ -10,3 +10,6 @@ person = [];
 
 //근데 이렇게 굳이 object 속성으로 줄 필요가 있나 싶음...
 //ts쓰는 이유가 없음
+
+// object 객체 타입
+let obj: object = { name: "NAME", age: 24 }; // any 타입처럼 모든 타입 할당 가능 *배열도 가능
